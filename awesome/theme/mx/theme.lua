@@ -6,6 +6,7 @@ local xresources = require("beautiful.xresources")
 local dpi = xresources.apply_dpi
 local gfs = require("gears.filesystem")
 local themes_path = gfs.get_dir("config") .. "theme/"
+
 local theme = {}
 
 theme.font          = "DejaVu Sans 8"
@@ -94,6 +95,7 @@ theme.titlebar_maximized_button_focus_inactive  = themes_path.."mx/titlebar/maxi
 theme.titlebar_maximized_button_normal_active = themes_path.."mx/titlebar/maximized_normal_active.png"
 theme.titlebar_maximized_button_focus_active  = themes_path.."mx/titlebar/maximized_focus_active.png"
 
+-- Wallpaper:
 theme.wallpaper = themes_path.."mx/awbg.png"
 
 -- You can use your own layout icons like this:
