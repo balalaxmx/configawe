@@ -1,11 +1,11 @@
-Wallpaper: archlinux-poolclouds.jpg
-Author: Venom339
-Author URL: http://venom339.deviantart.com/
-Modified by: Thayer Williams <thayer@archlinux.org>
+====    mx Awesome Theme    ====
+================================
 
+Wallpaper:
+Author: Mikael Eriksson <mikael_eriksson@miffe.org>
 Wallpaper License: CC BY-NC-SA 4.0
 
 This theme is modify from awesome/default theme.
 I Changed Wallpaper and file path (to ~/.config/awesome/theme/).
 
-Theme License: GPL v3
+Theme License: GPL v3 <https://www.gnu.org/licenses/gpl.html>
